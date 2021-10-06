@@ -1,0 +1,14 @@
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\bin\Debug\netcoreapp3.1\ExponentLab.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\bin\Debug\netcoreapp3.1\ExponentLab.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\bin\Debug\netcoreapp3.1\ExponentLab.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\bin\Debug\netcoreapp3.1\ExponentLab.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\bin\Debug\netcoreapp3.1\ExponentLab.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\bin\Debug\netcoreapp3.1\ExponentLab.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\obj\Debug\netcoreapp3.1\ExponentLab.csproj.AssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\obj\Debug\netcoreapp3.1\ExponentLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\obj\Debug\netcoreapp3.1\ExponentLab.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\obj\Debug\netcoreapp3.1\ExponentLab.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\obj\Debug\netcoreapp3.1\ExponentLab.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\obj\Debug\netcoreapp3.1\ExponentLab.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\obj\Debug\netcoreapp3.1\ExponentLab.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\ExponentLab\ExponentLab\obj\Debug\netcoreapp3.1\ExponentLab.genruntimeconfig.cache

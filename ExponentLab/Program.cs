@@ -25,6 +25,10 @@ namespace ExponentLab
                     {
                         break;
                     }
+                    else
+                    {
+                        continue;
+                    }
                 }
                 Console.WriteLine("Number\t\tSquared\t\tCubed");
                 Console.WriteLine("======\t\t=======\t\t=====");
